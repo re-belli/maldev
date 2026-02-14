@@ -12,4 +12,4 @@ https://github.com/fortra/impacket/blob/master/examples/ntlmrelayx.py
 # Implement reliable function proxying technique that uses indirect syscalls
 https://0xdarkvortex.dev/hiding-in-plainsight/
 
-# Exeriment with adding loader techniques, heap spraying, rop chain, module stomping, custom assembly loader, and indirect syscall function proxying
+# Experiment with adding loader techniques, heap spraying, rop chain, module stomping, custom assembly loader, and indirect syscall function proxying
