@@ -13,3 +13,6 @@ https://github.com/fortra/impacket/blob/master/examples/ntlmrelayx.py
 https://0xdarkvortex.dev/hiding-in-plainsight/
 
 # Experiment with adding loader techniques, heap spraying, rop chain, module stomping, custom assembly loader, and indirect syscall function proxying
+
+# Write below in assembly, reuse fork concept for shellcoding 
+https://github.com/wtechsec/LSASS-Forked-Dump---Bypass-EDR-CrowdStrike/blob/main/PoC_Lsass.ps1
