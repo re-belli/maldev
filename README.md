@@ -5,6 +5,7 @@
 
 # Build updated version using a different vulnerable driver. Requires Admin user so rarelly use it during engagements, but more interested in using it to test Defender ASR rules. 
 https://github.com/lawiet47/STFUEDR/tree/main
+https://github.com/Dor00tkit/DellInstrumentation_PoC
 
 # Modify ntlmrelayx since it is burnt by Falcon
 https://github.com/fortra/impacket/blob/master/examples/ntlmrelayx.py
